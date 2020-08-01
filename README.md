@@ -13,3 +13,5 @@ Screenshot:
 <br>
 <br>
 <p>This project was made using HTML, CSS and Bootstrap(v4.5)</p>
+<br>
+<p>The header and alert were Bootstrap components, all other things were created purely using HTML and CSS.</p>
