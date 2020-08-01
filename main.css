@@ -1,0 +1,240 @@
+.alert {
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: #509bf5;
+    margin: auto;
+}
+
+.GoodAnchors {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.GoodAnchors:hover {
+    color: #fff;
+}
+
+.navbar {
+    text-align: right;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    color: #fff;
+    margin: auto;
+    background-color: black;
+}
+
+.nav-link {
+    text-align: right;
+    color: #fff;
+    /* text-decoration: ; */
+}
+
+.nav-link:hover {
+    text-align: right;
+    color: #1ED760;
+    /* text-decoration: ; */
+}
+
+
+/* .fa {
+    background-color: gray;
+    color: #fff;
+}
+
+.fa:hover {
+    background-color: gray;
+    color: #fff;
+} */
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+#GoodDiv {
+    text-align: center;
+    color: #fff;
+    display: block;
+    margin: auto;
+    padding: 9.85rem;
+    background: url('Spotify.png');
+    height: 702px;
+    width: 1519px;
+}
+
+#GoodText {
+    font-size: 4.8rem;
+    font-weight: 750;
+    word-spacing: 2px;
+    font-family: inherit;
+}
+
+#BadText {
+    font-size: 1.2rem;
+}
+
+#btn {
+    border: 0px;
+    padding: 0.7rem;
+    border-radius: 30px;
+    width: 20%;
+    color: #FFF;
+    font-weight: 500;
+    background-color: #1DB954;
+    margin-top: 16px;
+}
+
+#btn:hover {
+    background-color: #1ED760;
+    color: #FFF;
+}
+
+footer {
+    /* display: inline-block; */
+    background-color: black;
+    height: 70vh;
+    color: white;
+    padding: 11rem;
+}
+
+
+/* .fa {
+    display: inline-block;
+    color: white;
+    background-color: white;
+    font-size: 100px;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    background-color: white;
+} */
+
+
+/* ul {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+} */
+
+ul li {
+    display: inline;
+    padding: 0.1rem;
+    margin: 2rem;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+
+/* .BadList1 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+.BadList1 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+.BadList2 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    padding-right: 2.1rem;
+    padding-left: 2.5rem;
+}
+
+.BadList3 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+.BadList4 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+.BadList5 {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+}
+
+.GoodList {
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+} */
+
+
+/* .Good {
+    text-align: center;
+} */
+
+.GoodAnchors1 {
+    color: #fff;
+    text-decoration: none;
+}
+
+.GoodAnchors1:hover {
+    color: #1ED760;
+    text-decoration: none;
+}
+
+
+/* 
+.GoodList {
+    width: 30%;
+}
+
+.GoodList1 {
+    width: 30%;
+    text-align: center;
+} */
+
+.Goodness {
+    width: 5rem;
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.fa {
+    color: white;
+}
+
+.navbar-nav {
+    align-items: right;
+    text-align: right;
+}
